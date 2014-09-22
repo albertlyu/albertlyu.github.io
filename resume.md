@@ -7,6 +7,20 @@
 
 ------
 
+### Technical
+
+1. HTML5/CSS3/JavaScript
+1. Python
+1. R
+1. Ruby on Rails
+1. PostgreSQL / SQLite / MySQL
+1. AngularJS / MEAN Stack
+1. Git / SVN
+1. MS SQL Server
+1. MicroStrategy
+
+------
+
 ### Projects
 
 * **Football Data Scrapers**
@@ -41,20 +55,6 @@
 	● Maintained and cleaned up internal SQL database using stored procedures.
 	● Created and collected data for multiple spreadsheets involving arbitration figures, scouting reports, trade history, and injury reports.
 	● Created PHP-based database-driven player annotation application.
-
-------
-
-### Technical
-
-1. HTML5/CSS3/JavaScript
-1. Python
-1. R
-1. Ruby on Rails
-1. PostgreSQL / SQLite / MySQL
-1. AngularJS / MEAN Stack
-1. Git / SVN
-1. MS SQL Server
-1. MicroStrategy
 
 ------
 
