@@ -9,23 +9,23 @@
 
 ### Technical
 
-1. HTML5/CSS3/JavaScript
 1. Python
-1. R
 1. Ruby on Rails
-1. PostgreSQL / SQLite / MySQL
-1. AngularJS / MEAN Stack
-1. Git / SVN
-1. MS SQL Server
+1. HTML5 / CSS3 / JavaScript
+1. R
+1. PostgreSQL / MySQL
+1. MS SQL Server (SSMS and SSIS)
 1. MicroStrategy
+1. Git / SVN Version Control
+1. Linux
 
 ------
 
 ### Projects
 
-* **Football Data Scrapers**
-	<a href=https://github.com/albertlyu/nflgame-site class=not-printed>NFL repo</a> <span class=not-printed>and</span> <a href=https://github.com/albertlyu/cfb-site class=not-printed>CFB repo</a>
-	Python and Ruby scripts to scrape and parse JSON files of both NFL and college football play-by-play data.
+* **NBA Database**
+	<a href=https://github.com/albertlyu/nbadb class=not-printed>NBA repo</a>
+	A Python project to scrape JSON files of NBA play-by-play and player tracking data to store in a PostgreSQL database.
 
 * **Shot Charts 3.0**
 	<a href=http://shot-charts.herokuapp.com/ class=not-printed>shot-charts.herokuapp.com</a>
@@ -33,18 +33,20 @@
 
 * **BaseballMod.com**
 	<a href=https://github.com/albertlyu/pitchfx-site class=not-printed>GitHub repo</a>
-	AngularJS web application for quickly and visually searching and faceting MLB atbat and pitch data for any player.
+	Open-source contributions to an AngularJS web app that quickly and visually searches and facets MLB atbat and pitch data.
 
 ------
 
 ### Experience
 
 **Business Intelligence Developer, Mattersight Corporation** *July 2013 to present*
+	● Currently designing data modeling approaches for Vertica migration and new ETL and BI processes.
+	● Prototyped common ETL tasks and file extract/ingestion techniques in Python to support the Vertica columnar database transition from Microsoft SQL Server.
+	● Wrote documentation for creating a Vertica data warehouse on a Red Hat/CentOS Linux VM.
 	● Developed and maintained MicroStrategy dashboards reporting on call center analytics.
-	● Managed MicroStrategy administration tasks, including creating schema and report objects.
-	● Developed JavaScript web applications to dynamically report on raw call data.
+	● Managed MicroStrategy administration tasks, including creating schema and report objects, providing MicroStrategy and datawarehousing technical support, and troubleshooting MSTR and/or data bugs.
 	● Developed T-SQL stored procedures to extract, transform, and load data from call recording streams.
-	● Provided MicroStrategy and data warehousing technical support to client-facing teams.
+	● Prototyped JavaScript visualizations to dynamically report on raw call data.
 
 **Analytics Intern, iCrossing** *June 2012 to August 2012*
 	● Spearheaded 8-week project investigating the relationships between key performance indicators and descriptive variables of Facebook brand posts.
@@ -53,8 +55,18 @@
 
 **Baseball Operations Intern, Toronto Blue Jays** *July 2011 to November 2011*
 	● Maintained and cleaned up internal SQL database using stored procedures.
-	● Created and collected data for multiple spreadsheets involving arbitration figures, scouting reports, trade history, and injury reports.
 	● Created PHP-based database-driven player annotation application.
+	● Created and collected data for multiple spreadsheets involving arbitration figures, scouting reports, trade history, and injury reports.
+	● Summarized and wrote profile reports on 2011 MLB Trade Deadline candidates.
+	● Evaluated club's players at end of 2011 season based on proprietary advanced metrics.
+	● Identified potential minor league free agent targets using internal statistical reports.
+	● Attended TBJ Scout School hosted by amateur scouting director and national crosschecker.
+	● Managed and audited bi-weekly expense reports for all Blue Jays amateur and pro scouts.
+
+**Contributor, FanGraphs Baseball** *September 2010 to April 2011*
+	● Created PITCHf/x heat maps with R visualizing batter plate discipline and pitcher tendencies.
+	● Utilized kernel density estimation and LOESS regression techniques to populate heat maps.
+	● Applied data visualization and infographics to conduct baseball research.
 
 ------
 
